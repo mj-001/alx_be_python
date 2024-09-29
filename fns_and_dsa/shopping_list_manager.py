@@ -12,16 +12,25 @@ def main():
         choice = input("Enter your choice: ")
 
         if choice == '1':
-            shopping_list.append(input("What do you wish to add to the list : "))
+            shopping_list.append(input("Enter the item to add : "))
             # Prompt for and add an item
             pass
         elif choice == '2':
-            shopping_list.remove(input("What item do you wish to remove from the list: "))
+            item_to_remove=input("Enter the item to remove: ")
+            if item_to_remove in shopping_list:
+                shopping_list.remove(item_to_remove)
+            else:
+                print(f"{item_to_remove}not found in the list")
+
             # Prompt for and remove an item
             pass
         elif choice == '3':
-            for item in shopping_list:
-                print(item)
+            if shopping_list:
+                for item in shopping_list:
+                    print(item)
+
+            else:
+                print("The shopping list is empty")
             # Display the shopping list
             pass
         elif choice == '4':

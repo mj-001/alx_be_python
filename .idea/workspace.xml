@@ -5,14 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a9f2f2b-93ed-4284-ba83-02230b515a5f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/control-flow" beforeDir="false" afterPath="$PROJECT_DIR$/control-flow" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/control-flow/python_introduction/basic_operations.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/control-flow/python_introduction/finance_calculator.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/control-flow/python_introduction/future_age_calculator.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/control-flow/python_introduction/hours_to_seconds.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/control-flow/python_introduction/rectangle_area.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/control-flow/python_introduction/simple_interest.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/control-flow/weather_advice.py" beforeDir="false" afterPath="$PROJECT_DIR$/control-flow/weather_advice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/alx_be_python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/alx_be_python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fns_and_dsa/explore_datetime.py" beforeDir="false" afterPath="$PROJECT_DIR$/fns_and_dsa/explore_datetime.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fns_and_dsa/shopping_list_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/fns_and_dsa/shopping_list_manager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fns_and_dsa/temp_conversion_tool.py" beforeDir="false" afterPath="$PROJECT_DIR$/fns_and_dsa/temp_conversion_tool.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,37 +19,37 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "mj-001"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;mj-001&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/mj-001/alx_be_python.git",
-    "accountId": "d58035c3-90fe-4736-bf2f-3c0ea6393b39"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/mj-001/alx_be_python.git&quot;,
+    &quot;accountId&quot;: &quot;d58035c3-90fe-4736-bf2f-3c0ea6393b39&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2mhejlyEr2wfo8nB4UOftPBIVVH" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/alx_be_python"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/alx_be_python&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
+        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
       </set>
     </attachedChunks>
   </component>
