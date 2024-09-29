@@ -6,7 +6,8 @@ def convert_to_celsius(fahrenheit):
 def convert_to_fahrenheit(celsius):
     return (celsius * CELSIUS_TO_FAHRENHEIT_FACTOR) +32
 
-temperature_input =float(input("Enter the temperature you wish to convert(e.g, 100F or 37C: "))
+temperature_input =float(input("Enter the temperature to convert(e.g, 100F or 37C: "))
+input= ("Is this temperature in Celsius or Fahrenheit? (C/F)")
 
 if temperature_input[-1].upper()=="F":
     fahrenheit=float(temperature_input[:-1])
