@@ -15,9 +15,12 @@ class BankAccount:
             print("Amount should be positive")
             return False
         if amount>self.account_balance:
-            print(("Amount should be less than account balance"))
+            print(("Insufficient funds."))
             return False
-        self.account_balance-=amount
+        else:
+            self.account_balance-=amount
+            print(f"Withdrew: ${amount:.1f}")
+            return True
 
 
     def display_balance(self):
