@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a9f2f2b-93ed-4284-ba83-02230b515a5f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/oop/library_system.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +48,7 @@
     "Python.bank_account.executor": "Run",
     "Python.book_class.executor": "Run",
     "Python.library_management.executor": "Run",
+    "Python.library_system.executor": "Run",
     "Python.main-0.executor": "Run",
     "Python.main.executor": "Run",
     "Python.temp_conversion_tool.executor": "Run",
